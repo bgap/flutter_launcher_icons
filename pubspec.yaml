@@ -9,7 +9,7 @@ authors:
 - Mark O'Sullivan <mos182@hotmail.co.uk>
 
 dependencies:
-  image: "^2.1.1"
+  image: "master"
   args: "^1.5.0"
   yaml: "^2.1.15"
 
